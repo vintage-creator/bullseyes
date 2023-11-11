@@ -1,0 +1,11 @@
+{
+  "name": "bullseyes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:vintage-creator/bullseyes.git",
+  "author": "Israel Abazie <chuksy3@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
